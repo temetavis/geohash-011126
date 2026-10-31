@@ -1,0 +1,102 @@
+{
+  "threegeonames": "NOKIA-KAMUT-SEHWAN",
+  "geonumber": "3026409520978",
+  "nearest": {
+    "inlatt": "61.4352530",
+    "distance": "1.224",
+    "timezone": "Europe/Helsinki",
+    "elevation": "122",
+    "region": "Tampere",
+    "name": "Lahdenperä",
+    "state": "FI",
+    "latt": "61.43708",
+    "longt": "23.76575",
+    "city": "Tampere",
+    "prov": "Pirkanmaa",
+    "inlongt": "23.7884520",
+    "altgeocode": "PERAEC-UCVFM"
+  },
+  "osmtags": {
+    "wikipedia": "en:Tampere",
+    "state": "FI",
+    "wikidata": "Q40840",
+    "boundary": "administrative",
+    "id": "497622",
+    "name": "Tampere",
+    "admin_level": "8",
+    "ref": "837",
+    "name_fi": "Tampere",
+    "name_sv": "Tammerfors",
+    "type": "boundary"
+  },
+  "geocode": "TAMPERE-UCVFM",
+  "major": {
+    "inlatt": "61.4352530",
+    "distance": "7.101",
+    "timezone": "Europe/Helsinki",
+    "elevation": "114",
+    "region": "Tampere",
+    "name": "Tampere",
+    "state": "FI",
+    "latt": "61.49911",
+    "longt": "23.78712",
+    "city": "Tampere",
+    "prov": "Pirkanmaa",
+    "inlongt": "23.7884520"
+  },
+  "adminareas": {
+    "admin7": {
+      "name_fi": "Tampereen seutukunta",
+      "ref": "064",
+      "osmid": "497597",
+      "name": "Tampereen seutukunta",
+      "admin_level": "7",
+      "boundary": "administrative",
+      "name_sv": "Tammerfors ekonomiska region",
+      "type": "boundary"
+    },
+    "admin6": {
+      "osmid": "496738",
+      "is_in_country_code": "FI",
+      "wikidata": "Q5701",
+      "old_ref": "FI192",
+      "boundary": "administrative",
+      "name_fi": "Pirkanmaa",
+      "ref": "FI197",
+      "ISO3166_2": "FI-11",
+      "name": "Pirkanmaa",
+      "admin_level": "6",
+      "name_sv": "Birkaland",
+      "type": "boundary"
+    },
+    "admin8": {
+      "wikipedia": "en:Tampere",
+      "osmid": "497622",
+      "name_no": "Tammerfors",
+      "boundary": "administrative",
+      "wikidata": "Q40840",
+      "name_fi": "Tampere",
+      "ref": "837",
+      "name": "Tampere",
+      "admin_level": "8",
+      "type": "boundary"
+    },
+    "admin5": {
+      "source": "http://en.wikipedia.org/wiki/Regional_State_Administrative_Agencies_of_Finland",
+      "name_fi": "Länsi- ja Sisä-Suomen aluehallintovirasto",
+      "osmid": "496745",
+      "name": "Länsi- ja Sisä-Suomen aluehallintovirasto",
+      "admin_level": "5",
+      "boundary": "administrative",
+      "name_sv": "Västra och Inre Finlands regionförvaltningsverk",
+      "type": "boundary",
+      "name_en": "Western and Central Finland"
+    }
+  },
+  "_meta": {
+    "source": "geonames_3geonames",
+    "url": "https://api.3geonames.org/61.4352530,23.7884520.json",
+    "status": 200,
+    "note": "captured during initial research run; osmtags/adminareas trimmed to key fields for readability"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "dataset": "aster30m",
+      "elevation": 150.0,
+      "location": {
+        "lat": 61.435253,
+        "lng": 23.788452
+      }
+    }
+  ],
+  "status": "OK",
+  "_meta": {
+    "source": "opentopodata_aster30m",
+    "url": "https://api.opentopodata.org/v1/aster30m?locations=61.4352530,23.7884520",
+    "status": 200,
+    "note": "captured during initial research run"
+  }
+}

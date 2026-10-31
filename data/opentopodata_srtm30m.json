@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "dataset": "srtm30m",
+      "elevation": null,
+      "location": {
+        "lat": 61.435253,
+        "lng": 23.788452
+      }
+    }
+  ],
+  "status": "OK",
+  "_meta": {
+    "source": "opentopodata_srtm30m",
+    "url": "https://api.opentopodata.org/v1/srtm30m?locations=61.4352530,23.7884520",
+    "status": 200,
+    "note": "captured during initial research run"
+  }
+}

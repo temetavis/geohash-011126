@@ -1,0 +1,20 @@
+{
+  "country": "Finland",
+  "country abbreviation": "FI",
+  "post code": "33900",
+  "places": [
+    {
+      "place name": "Tampere",
+      "longitude": "23.786",
+      "latitude": "61.4958",
+      "state": "",
+      "state abbreviation": ""
+    }
+  ],
+  "_meta": {
+    "source": "zippopotam_fi_33900",
+    "url": "https://api.zippopotam.us/fi/33900",
+    "status": 200,
+    "note": "captured during initial research run"
+  }
+}
